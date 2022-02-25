@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SentData_JC</string>
+    <string name="etName1">Name</string>
+    <string name="etName2">Name</string>
+    <string name="ButtonSent">Sent</string>
+    <string name="ButtonBack">Back</string>
+</resources>
